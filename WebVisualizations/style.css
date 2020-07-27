@@ -1,0 +1,48 @@
+#bigimage{
+width:500px; 
+height:500px
+
+}
+#leftside{
+margin-top: 20px;
+font-size: 32px
+}
+#rightside{
+    margin-top: 120px;
+   
+    }
+#smallimage{
+    width:200px;
+    height:200px
+
+}
+
+#mediumimage{
+    width:350px;
+    height:350px
+
+}
+
+#smallmedimage{
+    margin-top: 20px;
+    width:300px;
+    height:300px;
+
+}
+
+
+p {
+    font-size: 20px;
+    margin-top: 40px;
+    color:#008cff;
+
+}   
+h2 {
+        font-size: 30px;
+        color:#0051ff;
+    }
+
+h3 {
+    font-size: 27px;
+    color:#008cff;
+  }
